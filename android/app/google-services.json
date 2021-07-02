@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742571048573",
+    "project_id": "buy-it-84d20",
+    "storage_bucket": "buy-it-84d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742571048573:android:eaf493432dc0d6ee87bb14",
+        "android_client_info": {
+          "package_name": "com.maichel.buyit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742571048573-2mc67pok09548a5epr5kulqq1o0f0pln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maichel.buyit",
+            "certificate_hash": "065afa520441a169e58f54a34644e790c65738d1"
+          }
+        },
+        {
+          "client_id": "742571048573-b1rq8cqbeeah9pfaijibr5qsnh9djctv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRS6Y5XPF4lvu3i93FnK7fZOwyoUuqBX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742571048573-b1rq8cqbeeah9pfaijibr5qsnh9djctv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
